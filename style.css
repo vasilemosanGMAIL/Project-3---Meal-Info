@@ -1,0 +1,18 @@
+.container h1,
+h3 {
+  font-family: "Akaya Telivigala";
+}
+
+#button {
+  font-size: 20px;
+  font-family: "Akaya Telivigala";
+}
+#main {
+  font-size: 23px;
+  font-family: "Akaya Telivigala";
+}
+
+#main a {
+  font-size: 17px;
+  font-family: "Helvetica";
+}
